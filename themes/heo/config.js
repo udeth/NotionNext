@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://udeth.com' },
+    { title: 'JUPYTER', url: 'https://app-jupyter.udeth.com' }
   ],
 
   // 英雄区(首页顶部大卡)
@@ -99,7 +99,7 @@ const CONFIG = {
     }
   ],
 
-  HEO_INFO_CARD: true,
+  HEO_INFO_CARD: true, // 是否显示信息卡片
 
   HEO_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
