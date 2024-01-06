@@ -10,8 +10,8 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '也許我這一生',
+  HEO_HERO_TITLE_2: '始終在追逐那顆九號球',
   HEO_HERO_TITLE_3: 'UDETH.COM',
   HEO_HERO_TITLE_4: '如果遇到困难',
   HEO_HERO_TITLE_5: '尝试再坚持一次',
