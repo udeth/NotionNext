@@ -10,11 +10,11 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '也許我這一生',
-  HEO_HERO_TITLE_2: '始終在追逐那顆九號球',
+  HEO_HERO_TITLE_1: 'YOU CAN',
+  HEO_HERO_TITLE_2: '(NOT) REDO',
   HEO_HERO_TITLE_3: 'UDETH.COM',
-  HEO_HERO_TITLE_4: '如果遇到困难',
-  HEO_HERO_TITLE_5: '尝试再坚持一次',
+  HEO_HERO_TITLE_4: '也許我這一生',
+  HEO_HERO_TITLE_5: '始終在追逐那顆九號球',
   HEO_HERO_TITLE_LINK: 'https:/udeth.com',
 
   // 英雄区显示三个置顶分类
